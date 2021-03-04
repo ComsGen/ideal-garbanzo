@@ -2,4 +2,8 @@
 
 @tailwind components;
 
+.loading {
+    @apply animate-pulse text-2xl font-bold
+}
+
 @tailwind utilities;

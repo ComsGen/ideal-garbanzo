@@ -1,29 +1,3 @@
-# project-china
-This is the toolchain china that will enable the use of tailwindcss, reactjs and many other uselful tools and technologies that will help with the developing of the toolbox
+# used resourses
 
-#Set up
-To get started, clone the project and install the dependencies:
-
-```
-# Using npm
-npm install
-
-# Using Yarn
-yarn
-```
-
-
-#Run project
-To get run the project run
-
-
-```
-# Using npm
-npm start
-```
-
-
-
-# Update notes
-have updated to parcel v2 and tailwind 2, will need to check for postcss 8 support soon
-
+(Ifram)[https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe]
